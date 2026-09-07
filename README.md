@@ -44,6 +44,21 @@ Additional troubleshooting notes are available in the validation/ folder.
 - Simple and multiple linear regression
 - Regression diagnostics
 
+## Model Assumptions & Diagnostics
+
+OLS models were evaluated for linearity and constant error variance using
+residual plots. Diagnostic plots showed evidence of nonlinearity for some
+specifications and heteroskedasticity for others, indicating that the standard
+OLS assumptions were not fully satisfied.
+
+Model performance was evaluated using p-values, R-squared, and adjusted
+R-squared. Adjusted R-squared was emphasized when comparing multivariable and
+polynomial models because it accounts for additional model complexity.
+
+A 5% significance level was used for statistical hypothesis tests. Polynomial
+specifications were evaluated based on the significance of higher-order terms
+and whether they produced meaningful improvements in adjusted R-squared.
+
 ## Key Findings
 
 - Changes in the percentage of the population aged 65+ had the strongest
