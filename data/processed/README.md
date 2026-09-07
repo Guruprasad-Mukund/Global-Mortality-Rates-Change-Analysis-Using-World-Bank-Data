@@ -1,1 +1,1 @@
-Final processed dataset (CSV file) used for the statistical analysis. This contains the merged the gdp_per_capita, health_expenditure_per_capita, population_age_65_plus, and death_rate datasets. 
+Final processed dataset used for statistical analysis. This dataset contains the merged GDP per capita, health expenditure per capita, population age 65+, and mortality rate variables.
