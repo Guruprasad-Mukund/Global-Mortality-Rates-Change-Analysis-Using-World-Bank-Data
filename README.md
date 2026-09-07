@@ -25,6 +25,17 @@ identifiers.
 
 The final analysis compares country-level changes between 2000 and 2019.
 
+## Data Validation
+
+Data-quality checks were performed throughout the preparation process to verify
+year selections, joins, and derived variables before statistical analysis.
+
+One inconsistency in the GDP per capita data was identified during validation,
+traced to an incorrect comparison year, corrected, and the affected analysis
+was rerun.
+
+Additional troubleshooting notes are available in the validation/ folder.
+
 ## Methodology
 - Data cleaning and integration in SQL
 - Exploratory analysis in Python
