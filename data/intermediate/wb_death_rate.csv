@@ -1,0 +1,435 @@
+﻿country_name,country_code,year,death_rate
+Afghanistan,AFG,2000,12.608
+Afghanistan,AFG,2019,7.064
+Albania,ALB,2000,5.619
+Albania,ALB,2019,7.473
+Algeria,DZA,2000,5.109
+Algeria,DZA,2019,4.681
+American Samoa,ASM,2000,4.421
+American Samoa,ASM,2019,6.191
+Andorra,AND,2000,6.228
+Andorra,AND,2019,5.560
+Angola,AGO,2000,18.080
+Angola,AGO,2019,7.701
+Antigua and Barbuda,ATG,2000,6.254
+Antigua and Barbuda,ATG,2019,6.448
+Argentina,ARG,2000,7.570
+Argentina,ARG,2019,7.676
+Armenia,ARM,2000,7.500
+Armenia,ARM,2019,8.800
+Aruba,ABW,2000,5.850
+Aruba,ABW,2019,6.145
+Australia,AUS,2000,6.700
+Australia,AUS,2019,6.700
+Austria,AUT,2000,9.600
+Austria,AUT,2019,9.400
+Azerbaijan,AZE,2000,5.800
+Azerbaijan,AZE,2019,5.600
+"Bahamas, The",BHS,2000,6.485
+"Bahamas, The",BHS,2019,9.321
+Bahrain,BHR,2000,2.646
+Bahrain,BHR,2019,2.104
+Bangladesh,BGD,2000,8.276
+Bangladesh,BGD,2019,5.372
+Barbados,BRB,2000,9.130
+Barbados,BRB,2019,9.517
+Belarus,BLR,2000,13.500
+Belarus,BLR,2019,12.800
+Belgium,BEL,2000,10.200
+Belgium,BEL,2019,9.500
+Belize,BLZ,2000,5.569
+Belize,BLZ,2019,5.040
+Benin,BEN,2000,11.890
+Benin,BEN,2019,9.335
+Bermuda,BMU,2000,6.436
+Bermuda,BMU,2019,8.705
+Bhutan,BTN,2000,8.188
+Bhutan,BTN,2019,6.350
+Bolivia,BOL,2000,9.745
+Bolivia,BOL,2019,7.555
+Bosnia and Herzegovina,BIH,2000,7.413
+Bosnia and Herzegovina,BIH,2019,13.102
+Botswana,BWA,2000,12.525
+Botswana,BWA,2019,6.408
+Brazil,BRA,2000,6.248
+Brazil,BRA,2019,6.452
+British Virgin Islands,VGB,2000,4.555
+British Virgin Islands,VGB,2019,5.724
+Brunei Darussalam,BRN,2000,3.472
+Brunei Darussalam,BRN,2019,4.779
+Bulgaria,BGR,2000,14.100
+Bulgaria,BGR,2019,16.300
+Burkina Faso,BFA,2000,15.332
+Burkina Faso,BFA,2019,8.564
+Burundi,BDI,2000,15.854
+Burundi,BDI,2019,7.394
+Cabo Verde,CPV,2000,6.350
+Cabo Verde,CPV,2019,5.004
+Cambodia,KHM,2000,8.700
+Cambodia,KHM,2019,6.189
+Cameroon,CMR,2000,13.275
+Cameroon,CMR,2019,8.163
+Canada,CAN,2000,7.100
+Canada,CAN,2019,7.600
+Cayman Islands,CYM,2000,5.552
+Cayman Islands,CYM,2019,4.809
+Central African Republic,CAF,2000,16.632
+Central African Republic,CAF,2019,30.250
+Chad,TCD,2000,17.852
+Chad,TCD,2019,12.519
+Channel Islands,CHI,2000,9.200
+Channel Islands,CHI,2019,9.700
+Chile,CHL,2000,5.011
+Chile,CHL,2019,6.460
+China,CHN,2000,6.450
+China,CHN,2019,7.090
+Colombia,COL,2000,5.574
+Colombia,COL,2019,5.380
+Comoros,COM,2000,10.606
+Comoros,COM,2019,7.644
+"Congo, Dem. Rep.",COD,2000,14.619
+"Congo, Dem. Rep.",COD,2019,9.460
+"Congo, Rep.",COG,2000,11.257
+"Congo, Rep.",COG,2019,7.344
+Costa Rica,CRI,2000,3.916
+Costa Rica,CRI,2019,5.124
+Cote d'Ivoire,CIV,2000,13.478
+Cote d'Ivoire,CIV,2019,8.492
+Croatia,HRV,2000,11.200
+Croatia,HRV,2019,12.700
+Cuba,CUB,2000,7.354
+Cuba,CUB,2019,10.047
+Curacao,CUW,2000,7.989
+Curacao,CUW,2019,8.800
+Cyprus,CYP,2000,6.616
+Cyprus,CYP,2019,6.600
+Czechia,CZE,2000,10.600
+Czechia,CZE,2019,10.500
+Denmark,DNK,2000,10.900
+Denmark,DNK,2019,9.300
+Djibouti,DJI,2000,10.692
+Djibouti,DJI,2019,7.797
+Dominica,DMA,2000,9.729
+Dominica,DMA,2019,12.611
+Dominican Republic,DOM,2000,5.557
+Dominican Republic,DOM,2019,6.132
+Ecuador,ECU,2000,5.168
+Ecuador,ECU,2019,4.753
+"Egypt, Arab Rep.",EGY,2000,6.319
+"Egypt, Arab Rep.",EGY,2019,5.477
+El Salvador,SLV,2000,6.552
+El Salvador,SLV,2019,7.439
+Equatorial Guinea,GNQ,2000,13.592
+Equatorial Guinea,GNQ,2019,8.496
+Eritrea,ERI,2000,11.145
+Eritrea,ERI,2019,6.413
+Estonia,EST,2000,13.200
+Estonia,EST,2019,11.600
+Eswatini,SWZ,2000,14.509
+Eswatini,SWZ,2019,9.372
+Ethiopia,ETH,2000,14.681
+Ethiopia,ETH,2019,6.481
+Faroe Islands,FRO,2000,7.800
+Faroe Islands,FRO,2019,8.000
+Fiji,FJI,2000,6.818
+Fiji,FJI,2019,9.092
+Finland,FIN,2000,9.500
+Finland,FIN,2019,9.800
+France,FRA,2000,8.900
+France,FRA,2019,9.100
+French Polynesia,PYF,2000,2.588
+French Polynesia,PYF,2019,3.369
+Gabon,GAB,2000,9.746
+Gabon,GAB,2019,6.693
+"Gambia, The",GMB,2000,11.332
+"Gambia, The",GMB,2019,6.807
+Georgia,GEO,2000,11.304
+Georgia,GEO,2019,12.081
+Germany,DEU,2000,10.200
+Germany,DEU,2019,11.300
+Ghana,GHA,2000,9.991
+Ghana,GHA,2019,7.340
+Gibraltar,GIB,2000,7.423
+Gibraltar,GIB,2019,6.811
+Greece,GRC,2000,9.700
+Greece,GRC,2019,11.700
+Greenland,GRL,2000,8.000
+Greenland,GRL,2019,9.700
+Grenada,GRD,2000,7.213
+Grenada,GRD,2019,8.481
+Guam,GUM,2000,4.541
+Guam,GUM,2019,6.534
+Guatemala,GTM,2000,6.250
+Guatemala,GTM,2019,5.117
+Guinea,GIN,2000,14.892
+Guinea,GIN,2019,9.945
+Guinea-Bissau,GNB,2000,15.769
+Guinea-Bissau,GNB,2019,7.863
+Guyana,GUY,2000,7.759
+Guyana,GUY,2019,7.503
+Haiti,HTI,2000,10.393
+Haiti,HTI,2019,7.876
+Honduras,HND,2000,5.243
+Honduras,HND,2019,4.486
+"Hong Kong SAR, China",HKG,2000,5.100
+"Hong Kong SAR, China",HKG,2019,6.500
+Hungary,HUN,2000,13.300
+Hungary,HUN,2019,13.400
+Iceland,ISL,2000,6.500
+Iceland,ISL,2019,6.300
+India,IND,2000,8.628
+India,IND,2019,6.670
+Indonesia,IDN,2000,7.431
+Indonesia,IDN,2019,7.558
+"Iran, Islamic Rep.",IRN,2000,4.957
+"Iran, Islamic Rep.",IRN,2019,4.659
+Iraq,IRQ,2000,6.801
+Iraq,IRQ,2019,4.360
+Ireland,IRL,2000,8.200
+Ireland,IRL,2019,6.200
+Isle of Man,IMN,2000,12.743
+Isle of Man,IMN,2019,10.085
+Israel,ISR,2000,6.000
+Israel,ISR,2019,5.100
+Italy,ITA,2000,9.800
+Italy,ITA,2019,10.600
+Jamaica,JAM,2000,6.920
+Jamaica,JAM,2019,7.531
+Japan,JPN,2000,7.700
+Japan,JPN,2019,11.200
+Jordan,JOR,2000,3.731
+Jordan,JOR,2019,3.033
+Kazakhstan,KAZ,2000,10.622
+Kazakhstan,KAZ,2019,6.911
+Kenya,KEN,2000,9.942
+Kenya,KEN,2019,7.294
+Kiribati,KIR,2000,7.204
+Kiribati,KIR,2019,7.171
+"Korea, Dem. People's Rep.",PRK,2000,10.693
+"Korea, Dem. People's Rep.",PRK,2019,9.326
+"Korea, Rep.",KOR,2000,5.200
+"Korea, Rep.",KOR,2019,5.700
+Kosovo,XKX,2000,5.620
+Kosovo,XKX,2019,5.702
+Kuwait,KWT,2000,2.023
+Kuwait,KWT,2019,1.645
+Kyrgyz Republic,KGZ,2000,7.000
+Kyrgyz Republic,KGZ,2019,5.200
+Lao PDR,LAO,2000,10.033
+Lao PDR,LAO,2019,6.599
+Latvia,LVA,2000,13.600
+Latvia,LVA,2019,14.500
+Lebanon,LBN,2000,4.527
+Lebanon,LBN,2019,5.458
+Lesotho,LSO,2000,15.879
+Lesotho,LSO,2019,11.830
+Liberia,LBR,2000,14.843
+Liberia,LBR,2019,8.513
+Libya,LBY,2000,4.761
+Libya,LBY,2019,5.165
+Liechtenstein,LIE,2000,7.300
+Liechtenstein,LIE,2019,6.800
+Lithuania,LTU,2000,11.100
+Lithuania,LTU,2019,13.600
+Luxembourg,LUX,2000,8.600
+Luxembourg,LUX,2019,6.900
+"Macao SAR, China",MAC,2000,3.100
+"Macao SAR, China",MAC,2019,3.400
+Madagascar,MDG,2000,10.464
+Madagascar,MDG,2019,7.518
+Malawi,MWI,2000,18.022
+Malawi,MWI,2019,6.301
+Malaysia,MYS,2000,4.431
+Malaysia,MYS,2019,4.980
+Maldives,MDV,2000,4.412
+Maldives,MDV,2019,2.579
+Mali,MLI,2000,16.020
+Mali,MLI,2019,9.475
+Malta,MLT,2000,7.500
+Malta,MLT,2019,7.300
+Marshall Islands,MHL,2000,6.745
+Marshall Islands,MHL,2019,6.787
+Mauritania,MRT,2000,8.861
+Mauritania,MRT,2019,6.115
+Mauritius,MUS,2000,6.700
+Mauritius,MUS,2019,8.800
+Mexico,MEX,2000,5.481
+Mexico,MEX,2019,6.083
+"Micronesia, Fed. Sts.",FSM,2000,6.888
+"Micronesia, Fed. Sts.",FSM,2019,7.600
+Moldova,MDA,2000,11.819
+Moldova,MDA,2019,13.919
+Monaco,MCO,2000,11.108
+Monaco,MCO,2019,22.362
+Mongolia,MNG,2000,7.080
+Mongolia,MNG,2019,5.600
+Montenegro,MNE,2000,9.000
+Montenegro,MNE,2019,10.500
+Morocco,MAR,2000,6.458
+Morocco,MAR,2019,5.629
+Mozambique,MOZ,2000,15.664
+Mozambique,MOZ,2019,8.078
+Myanmar,MMR,2000,9.983
+Myanmar,MMR,2019,8.847
+Namibia,NAM,2000,12.213
+Namibia,NAM,2019,7.722
+Nauru,NRU,2000,7.896
+Nauru,NRU,2019,7.573
+Nepal,NPL,2000,8.369
+Nepal,NPL,2019,7.024
+Netherlands,NLD,2000,8.800
+Netherlands,NLD,2019,8.800
+New Caledonia,NCL,2000,5.161
+New Caledonia,NCL,2019,6.278
+New Zealand,NZL,2000,6.910
+New Zealand,NZL,2019,6.870
+Nicaragua,NIC,2000,6.145
+Nicaragua,NIC,2019,4.950
+Niger,NER,2000,17.700
+Niger,NER,2019,9.573
+Nigeria,NGA,2000,17.439
+Nigeria,NGA,2019,12.679
+North Macedonia,MKD,2000,8.500
+North Macedonia,MKD,2019,9.800
+Northern Mariana Islands,MNP,2000,2.633
+Northern Mariana Islands,MNP,2019,4.142
+Norway,NOR,2000,9.800
+Norway,NOR,2019,7.600
+Oman,OMN,2000,3.155
+Oman,OMN,2019,2.001
+Pakistan,PAK,2000,8.899
+Pakistan,PAK,2019,6.772
+Palau,PLW,2000,9.922
+Palau,PLW,2019,10.631
+Panama,PAN,2000,4.829
+Panama,PAN,2019,4.719
+Papua New Guinea,PNG,2000,7.785
+Papua New Guinea,PNG,2019,6.624
+Paraguay,PRY,2000,5.324
+Paraguay,PRY,2019,5.584
+Peru,PER,2000,5.631
+Peru,PER,2019,6.160
+Philippines,PHL,2000,5.394
+Philippines,PHL,2019,5.896
+Poland,POL,2000,9.600
+Poland,POL,2019,10.800
+Portugal,PRT,2000,10.200
+Portugal,PRT,2019,10.800
+Puerto Rico (US),PRI,2000,7.480
+Puerto Rico (US),PRI,2019,9.194
+Qatar,QAT,2000,1.854
+Qatar,QAT,2019,0.841
+Romania,ROU,2000,11.400
+Romania,ROU,2019,13.400
+Russian Federation,RUS,2000,15.300
+Russian Federation,RUS,2019,12.300
+Rwanda,RWA,2000,15.173
+Rwanda,RWA,2019,6.132
+Samoa,WSM,2000,5.337
+Samoa,WSM,2019,6.529
+San Marino,SMR,2000,8.003
+San Marino,SMR,2019,7.200
+Sao Tome and Principe,STP,2000,9.653
+Sao Tome and Principe,STP,2019,6.117
+Saudi Arabia,SAU,2000,3.234
+Saudi Arabia,SAU,2019,2.295
+Senegal,SEN,2000,10.815
+Senegal,SEN,2019,5.979
+Serbia,SRB,2000,13.800
+Serbia,SRB,2019,14.600
+Seychelles,SYC,2000,6.800
+Seychelles,SYC,2019,8.100
+Sierra Leone,SLE,2000,20.008
+Sierra Leone,SLE,2019,9.390
+Singapore,SGP,2000,4.500
+Singapore,SGP,2019,5.000
+Sint Maarten (Dutch part),SXM,2000,3.782
+Sint Maarten (Dutch part),SXM,2019,6.879
+Slovak Republic,SVK,2000,9.800
+Slovak Republic,SVK,2019,9.800
+Slovenia,SVN,2000,9.300
+Slovenia,SVN,2019,9.900
+Solomon Islands,SLB,2000,6.071
+Solomon Islands,SLB,2019,5.547
+"Somalia, Fed. Rep.",SOM,2000,15.749
+"Somalia, Fed. Rep.",SOM,2019,10.908
+South Africa,ZAF,2000,10.393
+South Africa,ZAF,2019,8.750
+South Sudan,SSD,2000,17.315
+South Sudan,SSD,2019,9.302
+Spain,ESP,2000,8.900
+Spain,ESP,2019,8.800
+Sri Lanka,LKA,2000,6.633
+Sri Lanka,LKA,2019,6.700
+St. Kitts and Nevis,KNA,2000,9.408
+St. Kitts and Nevis,KNA,2019,9.985
+St. Lucia,LCA,2000,6.428
+St. Lucia,LCA,2019,8.425
+St. Martin (French part),MAF,2000,3.576
+St. Martin (French part),MAF,2019,6.886
+St. Vincent and the Grenadines,VCT,2000,7.909
+St. Vincent and the Grenadines,VCT,2019,11.288
+Sudan,SDN,2000,9.972
+Sudan,SDN,2019,6.549
+Suriname,SUR,2000,8.055
+Suriname,SUR,2019,7.034
+Sweden,SWE,2000,10.500
+Sweden,SWE,2019,8.600
+Switzerland,CHE,2000,8.700
+Switzerland,CHE,2019,7.900
+Syrian Arab Republic,SYR,2000,4.385
+Syrian Arab Republic,SYR,2019,5.284
+Tajikistan,TJK,2000,7.382
+Tajikistan,TJK,2019,4.843
+Tanzania,TZA,2000,12.772
+Tanzania,TZA,2019,6.183
+Thailand,THA,2000,6.395
+Thailand,THA,2019,7.422
+Timor-Leste,TLS,2000,9.680
+Timor-Leste,TLS,2019,7.477
+Togo,TGO,2000,11.903
+Togo,TGO,2019,8.394
+Tonga,TON,2000,6.553
+Tonga,TON,2019,6.426
+Trinidad and Tobago,TTO,2000,6.846
+Trinidad and Tobago,TTO,2019,7.948
+Tunisia,TUN,2000,5.028
+Tunisia,TUN,2019,6.099
+Turkiye,TUR,2000,5.822
+Turkiye,TUR,2019,5.300
+Turkmenistan,TKM,2000,6.942
+Turkmenistan,TKM,2019,5.986
+Turks and Caicos Islands,TCA,2000,4.308
+Turks and Caicos Islands,TCA,2019,7.040
+Tuvalu,TUV,2000,10.015
+Tuvalu,TUV,2019,9.190
+Uganda,UGA,2000,14.786
+Uganda,UGA,2019,5.420
+Ukraine,UKR,2000,15.171
+Ukraine,UKR,2019,13.079
+United Arab Emirates,ARE,2000,2.004
+United Arab Emirates,ARE,2019,0.958
+United Kingdom,GBR,2000,10.300
+United Kingdom,GBR,2019,9.019
+United States,USA,2000,8.500
+United States,USA,2019,8.697
+Uruguay,URY,2000,9.504
+Uruguay,URY,2019,9.754
+Uzbekistan,UZB,2000,7.006
+Uzbekistan,UZB,2019,5.970
+Vanuatu,VUT,2000,5.334
+Vanuatu,VUT,2019,5.494
+"Venezuela, RB",VEN,2000,4.934
+"Venezuela, RB",VEN,2019,6.802
+Viet Nam,VNM,2000,5.486
+Viet Nam,VNM,2019,6.300
+Virgin Islands (U.S.),VIR,2000,6.000
+Virgin Islands (U.S.),VIR,2019,8.200
+West Bank and Gaza,PSE,2000,4.500
+West Bank and Gaza,PSE,2019,3.134
+"Yemen, Rep.",YEM,2000,7.905
+"Yemen, Rep.",YEM,2019,5.859
+Zambia,ZMB,2000,16.198
+Zambia,ZMB,2019,6.482
+Zimbabwe,ZWE,2000,16.254
+Zimbabwe,ZWE,2019,8.281
