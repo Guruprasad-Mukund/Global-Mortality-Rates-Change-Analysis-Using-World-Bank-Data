@@ -1,14 +1,10 @@
 # Global Mortality Rates Change Analysis Using World Bank Data
 
 ## Overview
-This project investigates changes in mortality rates across countries
-between 2000 and 2019 using World Bank data.
+This project analyzes country-level changes in mortality rates by comparing World Bank observations from 2000 and 2019 and examining their relationships with changes in GDP per capita, health expenditure, and elderly population share.
 
 ## Research Question
-How did mortality rates change across countries from 2000 to 2019,
-and how were those changes associated with changes in GDP per capita,
-health expenditure per capita, and the percentage of the population
-aged 65+?
+How did mortality rates change from 2000 to 2019, based on differences between the 2000 and 2019 observations, and how were those changes associated with changes in GDP per capita, health expenditure per capita, and elderly population share?
 
 ## Data
 Four World Bank datasets:
