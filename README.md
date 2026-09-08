@@ -1,4 +1,4 @@
-# World Bank Global Mortality Analysis
+# Global Mortality Rates Change Analysis Using World Bank Data
 
 ## Overview
 This project investigates changes in mortality rates across countries
