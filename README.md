@@ -1,4 +1,4 @@
-# Global Mortality Rates Change Analysis Using World Bank Data
+# Global Mortality Rate Change Analysis Using World Bank Data
 
 ## Overview
 This project analyzes country-level changes in mortality rates by comparing World Bank observations from 2000 and 2019 and examining their relationships with changes in GDP per capita, health expenditure, and elderly population share.
